@@ -1,6 +1,7 @@
 import React from 'react';
 
 const ContainerCatalogSearch = () => {
+
     return (
         <div className='alignment container-catalog-search'>
             <div>
